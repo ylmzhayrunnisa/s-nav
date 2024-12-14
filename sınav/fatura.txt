@@ -1,0 +1,10 @@
+FATURA
+-------------------------
+Gurur ve Onyargi    2 Adet  Toplam: 134 TL
+Suc ve Ceza    4 Adet  Toplam: 360 TL
+-------------------------
+Toplam Tutar: 494 TL
+Taksit Sayisi: 4
+Aylik Odeme: 123.5 TL
+-------------------------
+Alisveris icin tesekkur ederiz!
