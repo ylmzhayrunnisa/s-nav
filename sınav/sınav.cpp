@@ -9,7 +9,7 @@ void showEmployees() {
 
     // Calisan bilgilerini tutan diziler
     string names[] = { "Hayrunnisa Yılmaz", "Joudi Tafran", "Masah Jsri", "Yazal Yuce", "Cansu Piroglu", "Gulsemin Ozgur" };
-    string emails[] = { "jouditafran271@gmail.com", "nisa.yilmaz@example.com", "Masah.Jsri@example.com",
+    string emails[] = { "nisa.yilmaz@gmail.com", "jouditafran271@gmail.com", "Masah.Jsri@example.com",
                        "Yazal.Yuce@example.com", "Cansu.Piroglu@example.com", "Gulsemin.Ozgur@example.com" };
     string phones[] = { "0542842928", "05724682479", "0544765887", "0566481737", "05267687248", "05723648176" };
     string departments[] = { "Yoneticisi CEO", "Genel Mudur", "Basim-Yayin Yoneticisi", "Editor", "Insan Kaynaklari Muduru", "Yazar" };
@@ -41,9 +41,9 @@ void firmaTanitim() {
     cout << " \nMJHYGC Kitap, tum dunyadaki eserlerin satin alinabildigi bir firmadir.";
 }
 void urunIncelemeVeAlisveris() {
-    string names[] = { "Suc ve Ceza", "Gurur ve Onyargi", "Yeraltindan Notlar", "Commandos", "Pro Evolution Soccer" };
+    string names[] = { "Suc ve Ceza", "Gurur ve Onyargi", "Yeraltindan Notlar", "Kucuk Prens", "Sefiller" };
     string k_Tanitim[] = { "Fyodor DOSTOYEVSKI", "Jane AUSTEN", "Fyodor Mihayloviç",
-                           "Taktik tabanli savas oyunu", "Futbol tutkunlarina ozel" };
+                           "Antoine de Saint-Exupéry", "Victor Hugo" };
     int Fiyat[] = { 90, 67, 88, 45, 79 };
 
     int numUrun = 5;
@@ -146,7 +146,7 @@ int main() {
     int choice;
 
     do {
-        cout << "\nANA MENU:\n";
+        cout << "\nMENU:\n";
         cout << "1. Firma Hakkinda\n";
         cout << "2. Urun Inceleme ve Alisveris\n";
         cout << "3. Cikis\n";
